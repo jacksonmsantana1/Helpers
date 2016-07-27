@@ -43,7 +43,6 @@
     "jscs": "^3.0.7",
     "mocha": "^2.5.3",
     "npm-run-all": "^2.3.0",
-    "ramda": "^0.21.0",
     "testem": "^1.10.0-1",
     "semantic-release": "^4.3.5",
     "webpack": "^1.13.1",
