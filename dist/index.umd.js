@@ -202,6 +202,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	Helpers.compareId = Helpers.prototype.compareId;
 	
 	exports.default = Helpers;
+	
+	//# sourceMappingURL=index.js.map
 
 /***/ },
 /* 1 */
