@@ -1,7 +1,8 @@
 {
   "name": "helpers-patchwork",
   "description": "Helpers functions for the Patchwork functions",
-  "main": "src/index.js",
+  "main": "dist/index.umd.js",
+  "version": "0.0.2",
   "scripts": {
     "commit": "git-cz",
     "jscs": "jscs ./src/index.js",

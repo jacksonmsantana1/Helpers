@@ -4,7 +4,7 @@ var webpack = require('webpack');
 module.exports = {
   context: path.resolve('src'),
   entry: {
-    app: './index.spec.js',
+    app: 'index.spec.js',
   },
   output: {
     path: path.resolve('tests/'),
