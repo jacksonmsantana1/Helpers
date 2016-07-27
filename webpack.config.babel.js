@@ -7,7 +7,7 @@ export default {
   output: {
 	path: join(__dirname, 'dist'),
 	libraryTarget: 'umd',
-	library: 'typeSafety',
+	library: 'helpers-patchwork',
   },
   devtool: 'source-map',
   module: {

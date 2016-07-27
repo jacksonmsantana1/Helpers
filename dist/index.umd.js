@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["typeSafety"] = factory();
+		exports["helpers-patchwork"] = factory();
 	else
-		root["typeSafety"] = factory();
+		root["helpers-patchwork"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
