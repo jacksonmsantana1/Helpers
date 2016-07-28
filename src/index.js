@@ -76,7 +76,7 @@ const second = compose(Maybe.fromNullable, nth(1));
 
 // isArrayEmpty :: Array -> Either
 const isArrayEmpty = (arr) => (isEmpty(arr) ?
-  Either.Left('No pwPinButton was found') :
+  Either.Left('Array is empty') :
   Either.Right(arr));
 
 /****************************************************************************/
